@@ -10,8 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "presets" : {"url": "https://famfirst.moonami.com/index.php", "username": ""},
-    <!--"siteurl": "https://famfirst.moonami.com/index.php", -->
+    <!--"presets" : {"url": "https://famfirst.moonami.com/index.php", "username": ""},-->
+    "siteurl": "https://famfirst.moonami.com/index.php", 
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
