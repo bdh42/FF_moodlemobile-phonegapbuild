@@ -1,0 +1,20 @@
+{
+    "app_id" : "com.moonami.famfirst",
+    "appname": "Families First Mobile",
+    "versioncode" : "2016",
+    "versionname" : "3.2.0",
+"cache_expiration_time" : 300000,
+"plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
+"wsservice" : "moodle_mobile_app",
+"wsextservice" : "local_mobile",
+"presets" : {"url": "http://leoneconnect.net/elearning", "username": "bsesay"},
+"sync_ws_on" : true,
+"sync_css_on" : true,
+"sync_cron": 300000,
+"log_length" : 100,
+"dev_debug": false,
+"extra_js": [],
+"demo_sites": [],
+"notifications_enabled": true,
+"gcmpn": "694767596569"
+}
