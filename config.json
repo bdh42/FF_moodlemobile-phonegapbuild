@@ -10,7 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://10.0.0.191", 
+    <!-- To update siteurl for the Phonegap build, you have to update siteurl in bundle/mm.bundle.js instead of here -->
+    "siteurl": "", 
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
